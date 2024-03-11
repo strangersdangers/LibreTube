@@ -482,11 +482,13 @@
     <string name="no_chapter">No chapter</string>
     <string name="screen_orientation">Screen orientation</string>
     <string name="auto_generated">auto-generated</string>
+    <string name="dearrow_contribute">Contribute to DeArrow</string>
     <string name="resolution_limited">limited</string>
     <string name="registration_disabled">Registration disabled</string>
     <string name="sb_create_segment">Create segment</string>
     <string name="segment_type">Segment type</string>
     <string name="sb_invalid_segment">Invalid segment start or end</string>
+    <string name="da_invalid_segment">Invalid segment for thumbnail</string>
     <string name="contribute_to_sponsorblock">Contribute to SponsorBlock</string>
     <string name="sponsorblock_user_id">SponsorBlock UserID</string>
     <string name="filename_too_long">Filename too long!</string>
