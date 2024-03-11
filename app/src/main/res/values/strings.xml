@@ -50,7 +50,12 @@
     <string name="addToPlaylist">Add to playlist</string>
     <string name="success">Done.</string>
     <string name="fail">Failed :(</string>
+    <string name="thumbnail_time">*Time for thumbnail</string>
+    <string name="da_submitting">Submit</string>
+    <string name="messageoptional">*not required if you use the original thumbnail</string>
+    <string name="da_tophead">Change title and thumbnail</string>
     <string name="about">About</string>
+    <string name="da_changetitle">Changed title</string>
     <string name="changeLanguage">Language</string>
     <string name="systemLanguage">System</string>
     <string name="systemDefault">System</string>
